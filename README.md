@@ -28,4 +28,4 @@ You are free to modify the slope and distance values depending upon the gesture 
 You can map more gestures with keys. Refer to: https://gist.github.com/dretax/fe37b8baf55bc30e9d63
 Hope you Like it!
 
-Thanks.# Hand-gesture
+Thanks.
